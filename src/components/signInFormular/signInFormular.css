@@ -17,3 +17,22 @@
   width: 2rem;
   height: auto;
 }
+
+.signIn_form > input {
+  background: none;
+  /* border: none; */
+  border-bottom: solid 2px #cccccc;
+}
+
+.signIn_form_submit {
+  color: #cccccc;
+  border: solid 2px #cccccc;
+  border-radius: 25px;
+  margin-top: 2rem;
+  padding: 0.7rem;
+}
+.signIn_form_typing {
+  margin-top: 0.3rem;
+  border: none;
+  padding: 0.5rem;
+}
