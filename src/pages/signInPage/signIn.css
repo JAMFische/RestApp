@@ -1,0 +1,31 @@
+.signInGrid {
+  display: grid;
+  grid-template-columns: 5% 1fr 5%;
+  grid-template-rows: 1fr 2fr 7%;
+  /* background-image: url(); */
+  background-color: black;
+  opacity: 0.9;
+  justify-items: center;
+  height: 100vh;
+}
+
+.restAppInfo {
+  grid-area: 1 / 2 / 3 / 2;
+}
+.restAppLogIn {
+  grid-area: 2 / 2 / 3 / 3;
+}
+
+.restAppSignUp {
+  grid-area: 3 / 2 / 3 / 3;
+  color: #cccccc;
+}
+.restAppAdress {
+  color: #cccccc;
+  text-align: center;
+}
+
+.restAppSignUp > a:link {
+  color: #cccccc;
+  font-size: 0.77rem;
+}
