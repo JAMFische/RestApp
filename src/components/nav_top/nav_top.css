@@ -1,0 +1,11 @@
+.navigation {
+  display: flex;
+  background-color: black;
+  padding: 1.5rem 0 1.5rem 3rem;
+  justify-content: center;
+}
+
+.pageHeadLine {
+  color: white;
+  margin: 0 auto;
+}
