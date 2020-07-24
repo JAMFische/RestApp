@@ -1,0 +1,19 @@
+.mapPage {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  position: relativ;
+}
+
+.mapPage > iframe {
+  flex-grow: 1;
+}
+
+.mapPage > a:link {
+  color: white;
+  font-size: 0.6rem;
+  position: absolute;
+  bottom: 8rem;
+  right: 1rem;
+  text-decoration: none;
+}
