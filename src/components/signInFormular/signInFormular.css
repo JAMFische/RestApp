@@ -35,3 +35,8 @@
   border: none;
   padding: 0.5rem;
 }
+.signIn_form + p {
+  font-size: 0.68rem;
+  padding-bottom: 1rem;
+  padding-top: 2rem;
+}
