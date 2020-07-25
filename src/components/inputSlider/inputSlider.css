@@ -1,8 +1,6 @@
 .sliderContainer {
   width: 100%;
-  /* background: black; */
 }
-
 .sliderContainer > input {
   appearance: none;
   width: 100%;
