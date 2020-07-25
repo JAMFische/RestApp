@@ -1,0 +1,28 @@
+.sliderContainer {
+  width: 100%;
+  background: black;
+}
+
+.sliderContainer > input {
+  appearance: none;
+  width: 100%;
+  height: 0.2rem;
+  background: #ccc;
+  outline: none;
+}
+
+.sliderContainer > input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 0.35rem;
+  height: 1.5rem;
+  background: white;
+  cursor: pointer;
+}
+
+.sliderContainer > input::-moz-range-thumb {
+  width: 0.35rem;
+  height: 1.5rem;
+  background: white;
+  cursor: pointer;
+}
