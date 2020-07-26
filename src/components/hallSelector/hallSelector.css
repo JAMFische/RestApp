@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+  padding: 10px;
+  background-color: black;
+}
+
+.btn-select {
+  background-color: black;
+  border: none;
+  color: #ffffff;
+  font-size: 0.6rem;
+  outline-style: none;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.1em;
+}
+.btn-select:hover {
+  text-decoration: none;
+  color: white;
+  border-bottom: solid white 3px;
+}
