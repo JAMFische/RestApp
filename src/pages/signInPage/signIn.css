@@ -7,12 +7,13 @@
   background-position: center;
   background-repeat: no-repeat;
   justify-items: center;
+  align-items: center;
   height: 100vh;
-  box-shadow: inset 100vh 0 0 0 rgba(0, 0, 0, 0.9);
+  box-shadow: inset 100vh 100vw 0 0 rgba(0, 0, 0, 0.9);
 }
 
 .restAppInfo {
-  grid-area: 1 / 2 / 3 / 2;
+  grid-area: 1 / 2 / 2 / 3;
   align-items: center;
   margin-top: 3rem;
 }
