@@ -12,9 +12,9 @@
 }
 
 .restAppInfo {
-  grid-area: 1 / 2 / 3 / 2;
+  grid-area: 1 / 2 / 2 / 3;
   align-items: center;
-  margin-top: 3rem;
+  margin-top: 2.5rem;
 }
 .restAppLogIn {
   grid-area: 2 / 2 / 3 / 3;
