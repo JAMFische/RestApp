@@ -11,9 +11,9 @@
 
 .mapPage > a:link {
   color: white;
-  font-size: 0.6rem;
+  font-size: 0.7rem;
   position: absolute;
-  bottom: 8rem;
+  bottom: 2.4rem;
   right: 1rem;
   text-decoration: none;
 }
